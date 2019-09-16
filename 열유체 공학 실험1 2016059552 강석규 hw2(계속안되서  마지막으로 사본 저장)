@@ -1,0 +1,82 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled3.ipynb",
+      "version": "0.3.2",
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "5O17BruCQL9S",
+        "colab_type": "code",
+        "outputId": "194d5255-0b47-476f-8efc-74fc06d1b5bf",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 197
+        }
+      },
+      "source": [
+        " num1 = int(input(\"숫자를 입력하시오\"))\n",
+        "\n",
+        " for i in range(1,10):\n",
+        "\n",
+        "  print (num1, \"X\", i, \"=\", num1*i)\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "execution_count": 0,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "숫자를 입력하시오190\n",
+            "190 X 1 = 190\n",
+            "190 X 2 = 380\n",
+            "190 X 3 = 570\n",
+            "190 X 4 = 760\n",
+            "190 X 5 = 950\n",
+            "190 X 6 = 1140\n",
+            "190 X 7 = 1330\n",
+            "190 X 8 = 1520\n",
+            "190 X 9 = 1710\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "2zBl3LxVSuM7",
+        "colab_type": "text"
+      },
+      "source": [
+        ""
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "iatOgIJRSt1j",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
+    }
+  ]
+}
